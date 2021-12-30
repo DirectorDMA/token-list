@@ -65353,6 +65353,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "zjB53Pcgj7wrNjXfXUxNmx23pSPZm5j1sR2kj5xVNEQ",
+      "symbol": "MAC",
+      "name": "Metaverse Athletic Crypto",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/DirectorDMA/DMALOGO2/main/Screen%20Shot%202021-12-29%20at%2011.28.07%20PM.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
